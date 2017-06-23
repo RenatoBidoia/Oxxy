@@ -1,0 +1,92 @@
+﻿@model MVC.Models.VeiculoModel
+
+<link href="~/Content/jquery.bxslider.css" rel="stylesheet" />
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('.bxSlider').bxSlider({
+            mode: 'horizontal',
+            minSlides: 2,
+            maxSlides: 4,
+            slideWidth: 248,
+            preloadImages: 'all'
+        });
+
+    });
+
+</script>
+
+<div>
+    <h4>Detalhes do Veículo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Fotos do Veículo</dt>
+
+        <dd>
+            <ul class="bxSlider">
+                @foreach (var img in Model.ListaImagens)
+                {
+                    <li>
+                        <img src="/Imagens/@img.CaminhoImagem" style="max-width: 225px;" />
+                    </li>
+                }
+            </ul>
+        </dd>
+        <dt>
+            <b>Placa:</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Placa)
+        </dd>
+
+        <dt>
+            <b>Renavam:</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Renavam)
+        </dd>
+
+        <dt>
+            <b>Nome do Proprietário:</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeProprietario)
+        </dd>
+
+        <dt>
+            <b>CPF do Proprietário:</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CPFProprietario)
+        </dd>
+
+        <dt>
+            <b>Bloqueado ?</b>
+        </dt>
+
+        <dd>
+            @if (Model.Bloqueado)
+            {
+                <b>Sim</b>
+            }
+            else
+            {
+                <b>Não</b>
+            }
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Voltar para Lista", "Index")
+</p>
+
+<script src="~/Scripts/jquery.bxslider.min.js"></script>
+

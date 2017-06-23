@@ -1,0 +1,110 @@
+C:\Users\Developer\Desktop\MVC\MVC\bin\MVC.dll.config
+C:\Users\Developer\Desktop\MVC\MVC\bin\MVC.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\MVC.pdb
+C:\Users\Developer\Desktop\MVC\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\EntityFramework.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\Owin.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Helpers.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Mvc.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Optimization.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Razor.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.WebPages.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\WebGrease.dll
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Helpers.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Mvc.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Optimization.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.Razor.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.WebPages.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\Desktop\MVC\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\EntityFramework.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Developer\Desktop\MVC\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Developer\Desktop\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\MVC\MVC\obj\Debug\MVC.dll
+C:\Users\Developer\Desktop\MVC\MVC\obj\Debug\MVC.pdb
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\MVC.dll.config
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\MVC.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\MVC.pdb
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Antlr3.Runtime.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\EntityFramework.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Newtonsoft.Json.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Owin.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Helpers.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Mvc.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Optimization.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Razor.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.WebPages.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\WebGrease.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Helpers.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Mvc.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Optimization.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.Razor.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.WebPages.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Newtonsoft.Json.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\EntityFramework.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\obj\Debug\MVC.dll
+C:\Users\rbidoia\documents\visual studio 2013\Projects\MVC\MVC\obj\Debug\MVC.pdb

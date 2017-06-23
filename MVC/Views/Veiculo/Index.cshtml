@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MVC.Models.VeiculoModel>
+
+<p>
+    @Html.ActionLink("Cadastrar Novo Veículo", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            <b>Placa</b>
+        </th>
+        <th>
+            <b>Renavam</b>
+        </th>
+        <th>
+            <b>Nome do Proprietário</b>
+        </th>
+        <th>
+            <b>CPF do Proprietário</b>
+        </th>
+        <th>
+            <b>@Html.DisplayNameFor(model => model.Bloqueado)</b>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Placa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Renavam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeProprietario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPFProprietario)
+            </td>
+            <td>
+                @if (item.Bloqueado)
+                {
+                    <b>Sim</b>
+                }
+                else
+                {
+                    <b>Não</b>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Visualizar", "Details", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
